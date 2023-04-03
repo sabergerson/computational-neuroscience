@@ -1,3 +1,3 @@
-# Computational-Neuroscience
+# computational-neuroscience
 
-This repository contains work done for the course NEURL-UA 302 Computational Neuroscience at NYU.
+NEURL-UA 302 Computational Neuroscience at NYU.
